@@ -1,0 +1,8 @@
+1. Follow the fnf source building tutorial
+
+Additional libs:
+
+LuaJIT: (if not delete the LUA_ENABLED variable from Proyect.xml)
+
+haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit
+

@@ -1,0 +1,24 @@
+{
+   "options":[
+      {
+         "name":"downscroll",
+         "value":false
+      },
+      {
+         "name":"middlescroll",
+         "value":false
+      },
+      {
+         "name":"ghostTapping",
+         "value":true
+      }
+   ],
+   "binds":{
+      "4":[
+         "A",
+         "S",
+         "W",
+         "D"
+      ]
+   }
+}

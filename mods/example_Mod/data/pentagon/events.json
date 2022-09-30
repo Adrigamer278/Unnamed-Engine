@@ -1,0 +1,481 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.5"
+					],
+					[
+						"Set Property",
+						"camZooming",
+						"true"
+					]
+				]
+			],
+			[
+				685.714285714286,
+				[
+					[
+						"Lyrics",
+						"Radio: Put",
+						""
+					]
+				]
+			],
+			[
+				942.857142857143,
+				[
+					[
+						"Lyrics",
+						"Radio: Put your",
+						""
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"Lyrics",
+						"Radio: Put your hands",
+						""
+					]
+				]
+			],
+			[
+				1542.85714285714,
+				[
+					[
+						"Lyrics",
+						"Radio: Put your hands in the",
+						""
+					]
+				]
+			],
+			[
+				1714.28571428571,
+				[
+					[
+						"Lyrics",
+						"Radio: Put your hands in the air",
+						""
+					]
+				]
+			],
+			[
+				1971.42857142857,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2057.14285714286,
+				[
+					[
+						"Screen Shake",
+						"1.5,1",
+						""
+					]
+				]
+			],
+			[
+				4114.28571428571,
+				[
+					[
+						"Lyrics",
+						"Tails: What's",
+						""
+					]
+				]
+			],
+			[
+				4457.14285714286,
+				[
+					[
+						"Lyrics",
+						"Tails: What's that",
+						""
+					]
+				]
+			],
+			[
+				4714.28571428571,
+				[
+					[
+						"Lyrics",
+						"Tails: What's that sound?",
+						""
+					]
+				]
+			],
+			[
+				5228.57142857143,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5400,
+				[
+					[
+						"Lyrics",
+						"Sonic: TAILS!",
+						""
+					]
+				]
+			],
+			[
+				6085.71428571429,
+				[
+					[
+						"Lyrics",
+						"Sonic: TAILS! We",
+						""
+					]
+				]
+			],
+			[
+				6171.42857142857,
+				[
+					[
+						"Lyrics",
+						"Sonic: TAILS! We gotta",
+						""
+					]
+				]
+			],
+			[
+				6342.85714285714,
+				[
+					[
+						"Lyrics",
+						"Sonic: TAILS! We gotta get",
+						""
+					]
+				]
+			],
+			[
+				6514.28571428571,
+				[
+					[
+						"Lyrics",
+						"Sonic: TAILS! We gotta get out",
+						""
+					]
+				]
+			],
+			[
+				6685.71428571429,
+				[
+					[
+						"Lyrics",
+						"Sonic: TAILS! We gotta get out of",
+						""
+					]
+				]
+			],
+			[
+				6942.85714285714,
+				[
+					[
+						"Lyrics",
+						"Sonic: TAILS! We gotta get out of here",
+						""
+					]
+				]
+			],
+			[
+				7285.71428571429,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7542.85714285714,
+				[
+					[
+						"Lyrics",
+						"Tails: Why?",
+						""
+					]
+				]
+			],
+			[
+				8228.57142857143,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8485.71428571428,
+				[
+					[
+						"Lyrics",
+						"Sonic: THEY",
+						""
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Lyrics",
+						"Sonic: THEY HIT",
+						""
+					]
+				]
+			],
+			[
+				8657.14285714286,
+				[
+					[
+						"Lyrics",
+						"Sonic: THEY HIT THE",
+						""
+					]
+				]
+			],
+			[
+				8914.28571428571,
+				[
+					[
+						"Lyrics",
+						"Sonic: THEY HIT THE FUCKING",
+						""
+					]
+				]
+			],
+			[
+				9342.85714285714,
+				[
+					[
+						"Lyrics",
+						"Sonic: THEY HIT THE FUCKING PENTAGON!",
+						""
+					]
+				]
+			],
+			[
+				10028.5714285714,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10159.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10178.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10193.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10221.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10251.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10313.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10358.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10431.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10493.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10517.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10570.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				10628.5714285714,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				32057.1428571429,
+				[
+					[
+						"Set Property",
+						"camZooming",
+						"false"
+					],
+					[
+						"Cam Boom Speed",
+						"9999",
+						"1"
+					]
+				]
+			],
+			[
+				32620.7142857143,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					],
+					[
+						"Play Animation",
+						"scared",
+						"GF"
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				32942.1428571429,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					],
+					[
+						"Play Animation",
+						"scared",
+						"GF"
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				33342.8571428571,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"GF"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
